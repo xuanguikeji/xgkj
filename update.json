@@ -1,7 +1,7 @@
 {
-  "version": 82,
-  "version_name": "v1.8.2",
+  "version": 83,
+  "version_name": "v1.8.3",
   "update_log": "炫鬼科技Xposed模块更新",
-  "apk_url": "https://github.com/xuanguikeji/xgkj/releases/download/v999/xuanguikeji-1.8.2.apk",
+  "apk_url": "https://github.com/xuanguikeji/xgkj/releases/download/v999/xuanguikeji-1.8.3.apk",
   "force": false
 }
