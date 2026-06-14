@@ -1,6 +1,6 @@
 {
-  "version": 83,
-  "version_name": "v1.8.3",
+  "version": 84,
+  "version_name": "v1.8.4",
   "update_log": "炫鬼科技Xposed模块有新版本啦！",
   "apk_url": "https://ghproxy.net/https://github.com/xuanguikeji/xgkj/releases/download/v999/xuanguikeji-1.8.3.apk",
   "force": false
