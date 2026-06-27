@@ -1,7 +1,7 @@
 {
-  "version": 86,
+  "version": 88,
   "version_name": "v1.8.6",
-  "update_log": "炫鬼科技Xposed模块有新版本啦！",
+  "update_log": "炫鬼科技Xposed模块有新版本啦！(只是测试，不用理)",
   "apk_url": "https://ghproxy.net/https://github.com/xuanguikeji/xgkj/releases/download/v999/xuanguikeji-1.8.6.apk",
   "force": false
 }
